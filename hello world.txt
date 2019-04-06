@@ -2,3 +2,4 @@ print("Привет");
 print("Всем!");
 
 print("hi dear");
+print("glad to see you");

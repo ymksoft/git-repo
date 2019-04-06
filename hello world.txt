@@ -1,5 +1,7 @@
-print("Привет");
-print("Всем!");
+print("Привет;");
+print("Всем!;");
+print("hi dear;");
+print("glad to see you;");
+print("Привет;");
+print("Всем!;");
 
-print("hi dear");
-print("glad to see you");
